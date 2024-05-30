@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋! My name is Yehor and I'm a Front-end Developer from Ukraine</h1>
 
 ###
+<p align="center">As a frontend developer, I specialize in creating intuitive and visually appealing user interfaces.
+My main tools are HTML, CSS, and JavaScript, with experience in popular frameworks and libraries such as React.js, Vue.js, and Angular. I diligently follow the latest design and technology trends to ensure that my projects are not only good-looking but also functional, accessible, and optimized for speed. I have deep knowledge in developing
+responsive and adaptive websites, ensuring they work efficiently across various devices and platforms. I also have experience using version control systems like Git, which aids in collaboration and effective project management.
+I continuously enhance my skills through courses and self-education and actively
+participate in professional communities and conferences. Communication with clients and team members is important to me, and I always strive to clearly understand the needs and expectations of clients to deliver a high-quality product that meets all requirements.</p>
+###
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhomichYehor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
