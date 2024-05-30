@@ -27,10 +27,9 @@ jobs:
       - uses: Platane/snk@v2
         with:
           github_user_name: KhomichYehor
-          outputs: dist
 
       # Show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: ls dist
+      - run: ls -al
 
       # Push the changes to the output branch
       - name: Push changes
@@ -44,9 +43,10 @@ jobs:
         with:
           # the output branch we mentioned above
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
