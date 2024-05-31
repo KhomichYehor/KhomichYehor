@@ -72,6 +72,6 @@ participate in professional communities and conferences. Communication with clie
 
 <br clear="both">
 
-![snake animation](https://github.com/KhomichYehor/KhomichYehor/blob/output/github-contribution-grid-snake2.svg)
+(https://raw.githubusercontent.com/KhomichYehor/KhomichYehor/output/github-contribution-grid-snake-dark.svg)
 
 ###
