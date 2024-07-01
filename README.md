@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋! My name is Yehor and I'm a Front-end Developer from Ukraine</h1>
 
 ###
-<p align="center" text-align="justify">As a frontend developer, I specialize in creating intuitive and visually appealing user interfaces.
-My main tools are HTML, CSS, and JavaScript, with experience in popular frameworks and libraries such as React.js, Vue.js, and Angular. I diligently follow the latest design and technology trends to ensure that my projects are not only good-looking but also functional, accessible, and optimized for speed. I have deep knowledge in developing
-responsive and adaptive websites, ensuring they work efficiently across various devices and platforms. I also have experience using version control systems like Git, which aids in collaboration and effective project management.
-I continuously enhance my skills through courses and self-education and actively
-participate in professional communities and conferences. Communication with clients and team members is important to me, and I always strive to clearly understand the needs and expectations of clients to deliver a high-quality product that meets all requirements.</p>
+<p align="center" text-align="justify">
+Frontend developer with 1+ year of working experience in a technical sphere, which is
+supported by a Computer Science Bachelorʼs degree, and in-depth knowledge of
+HTML, CSS, SCSS, ES6 JavaScript syntax, asynchronous programming, and modular
+structure. I have commercial experience with the React library and the NextJS
+framework, I know how to create interfaces that are correctly displayed on different
+devices, understand how to interact with the server part of applications through API,
+use webpack and npm, and work with version control systems.
+I communicated effectively with my colleagues and other project participants in my
+previous position, and successfully collaborated with a team to launch a new website
+feature that resulted in a 20% increase in user engagement within the first month.
+When my team decided to switch from using the React library to the NextJS
+framework, I quickly adapted to the new preprocessor within just a week and helped
+the team refactor our entire codebase, improving development efficiency. In my
+previous project, I managed my tasks efficiently and completed critical features ahead
+of schedule, allowing me to spend extra time on testing and ensuring a smooth product
+release 2 weeks early. </p>
 
 ###
 
